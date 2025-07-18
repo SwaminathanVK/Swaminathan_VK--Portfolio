@@ -1,12 +1,91 @@
-# React + Vite
+# 💼 Developer Portfolio - Swaminathan VK
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A fully responsive personal portfolio website built using **React.js** and **Tailwind CSS**, showcasing my projects, education, certifications, and contact information with an elegant and modern UI.
 
-Currently, two official plugins are available:
+## 🚀 Live Demo
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+🌐 [View Portfolio](https://your-portfolio-live-link.com)  
+📄 [Download Resume](https://drive.google.com/file/d/11MyvHie9yBYXqoq5hajvqfn3d8j_9PVf/view)
 
-## Expanding the ESLint configuration
+---
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## 📸 Screenshots
+
+| Home | Projects | Education |
+|------|----------|-----------|
+| ![Home](./assets/screens/home.png) | ![Projects](./assets/screens/projects.png) | ![Education](./assets/screens/education.png) |
+
+---
+
+## ✨ Features
+
+- Responsive design for all devices
+- Tailwind CSS for modern styling
+- Hero/About section with image and intro
+- Projects with GitHub + Live Demo buttons
+- Education timeline
+- Certification highlights
+- Downloadable resume
+- Smooth scroll & sectioned layout
+- Contact form or details
+
+---
+
+## 🛠️ Tech Stack
+
+| Technology | Usage |
+|------------|-------|
+| React.js   | Frontend library |
+| Tailwind CSS | Styling |
+| Vite       | Development & bundling |
+| Netlify    | Deployment |
+
+---
+
+## 📁 Folder Structure
+
+src/
+├── assets/ # Images and logos
+├── components/ # All reusable components
+│ ├── About.jsx
+│ ├── Navbar.jsx
+│ ├── Projects.jsx
+│ ├── Education.jsx
+│ ├── Certifications.jsx
+│ ├── Contact.jsx
+│ └── Footer.jsx
+├── App.jsx # Main app component
+└── main.jsx # Entry point
+
+
+
+---
+
+## 🧑‍💻 Author
+
+**Swaminathan VK**  
+🎓 B.E. ECE - Hindusthan Institute of Technology, Coimbatore  
+📧 [LinkedIn](https://www.linkedin.com/in/swaminathan-vk/)  
+🐙 [GitHub](https://github.com/SwaminathanVK)
+
+---
+
+## 📦 Installation
+
+```bash
+git clone https://github.com/SwaminathanVK/your-portfolio-repo.git
+cd your-portfolio-repo
+npm install
+npm run dev
+
+
+
+
+---
+
+### 🔁 What You Should Update
+- Replace `your-portfolio-live-link.com` with your Netlify link
+- Add screenshot paths or upload images to GitHub `assets/screens/`
+- Ensure project name matches your GitHub repo
+
+Want me to generate the same README as a markdown file (`README.md`) so you can copy it directly to your repo?
