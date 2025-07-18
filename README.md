@@ -4,7 +4,7 @@ A fully responsive personal portfolio website built using **React.js** and **Tai
 
 ## 🚀 Live Demo
 
-🌐 [View Portfolio](https://your-portfolio-live-link.com)  
+🌐 [View Portfolio](https://swaminathanportfolio.netlify.app/)  
 📄 [Download Resume](https://drive.google.com/file/d/11MyvHie9yBYXqoq5hajvqfn3d8j_9PVf/view)
 
 ---
